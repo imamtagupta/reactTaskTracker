@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filterableContacts/reactTaskTracker/static/css/main.bc2ed195.css",
+    "main.js": "/filterableContacts/reactTaskTracker/static/js/main.a97965ea.js",
+    "static/js/787.ba9dbce5.chunk.js": "/filterableContacts/reactTaskTracker/static/js/787.ba9dbce5.chunk.js",
+    "index.html": "/filterableContacts/reactTaskTracker/index.html",
+    "main.bc2ed195.css.map": "/filterableContacts/reactTaskTracker/static/css/main.bc2ed195.css.map",
+    "main.a97965ea.js.map": "/filterableContacts/reactTaskTracker/static/js/main.a97965ea.js.map",
+    "787.ba9dbce5.chunk.js.map": "/filterableContacts/reactTaskTracker/static/js/787.ba9dbce5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2ed195.css",
+    "static/js/main.a97965ea.js"
+  ]
+}
